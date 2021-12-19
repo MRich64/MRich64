@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRich64.  I live in Gouda (the Netherlands)
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning Python and Linux
+- 🌱 I've done coding in VB6 and vb.net for over 10 years. Currently learning Python and Linux
 - 💞️ I’m looking to collaborate on Arduino and Raspberry projects when my skills are on the right level (still a lot to learn...)
 - 📫 mrich_gouda@hotmail.com
 
